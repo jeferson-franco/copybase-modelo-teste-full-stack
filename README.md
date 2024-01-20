@@ -1,0 +1,1 @@
+# copybase-modelo-teste-full-stack
